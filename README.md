@@ -1,4 +1,4 @@
 ## Hi! I'm Isac Cunha! 
 
-- Currently studying computer science at Ufla
-  
+#### Currently studying computer science at UFLA.
+#### 🌱

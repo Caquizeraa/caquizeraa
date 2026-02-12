@@ -1,12 +1,8 @@
-## Hi! I'm Isac Cunha! 
+## Hi! I'm Isac Cunha 👋
 
-#### Currently studying computer science at UFLA.
-#### Data Analysis and Data Science student.
+Currently studying Computer Science at UFLA
 
-##### Skills
-- SQL
-- Python
-- Statistics
-- Exploratory Data Analysis
-- ETL
-#### 🌱
+I enjoy learning, solving problems, and building things through code.  
+Always exploring and evolving as I grow.
+
+🌱
